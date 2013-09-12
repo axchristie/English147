@@ -5,6 +5,7 @@
 	width: 32%;
 	height: 100%;
 	padding-left: 4em;
+	padding-top: 50px;
 	}
 	
 .content{
@@ -62,20 +63,30 @@ h0{
 	margin-left: 45%;
 }
 
-p{
+.title{
 	font-family: Helvetica;
-	font-size: 4em;
+	font-size: 60px;
 	color: black;
+	line-height: 1em;
+	font-weight: bold;
+}
+
+.subtitle{
+	font-family: Helvetica;
+	font-size: 45px;
+	color: gray;
+	text-indent: 50px;
 	line-height: 2em;
 	font-weight: bold;
+	margin-bottom: 50px;
 }
 
 
 li{
 	font-family: Helvetica, sans-serif;
-	font-size: 2em;
+	font-size: 40px;
 	color: black;
-	line-height: 2em
+	line-height: 2em;
 }
 
 li a:hover{
@@ -148,6 +159,7 @@ a[href^="mailto:"]{
 	color: white;
 	font-family: lato;
 	font-variant: small-caps;
+	margin-top: 110px;
 }
 
 .tile {
