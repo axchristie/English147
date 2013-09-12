@@ -28,13 +28,13 @@
 <body style="background-color: green;">
 
 <div class="sidebar">
-<p class="title">English 147</p>
-<p class="subtitle">Alex Christie</p>
+<p class="title">{{ site.name }}</p>
+<p class="subtitle">{{ site.subtitle }}</p>
 <ul>
-<li><a href="{{ site.baseurl }}/index.html">Course Content</a></li>
-<li><a href="{{ site.baseurl }}/digital/">Course Activities</a></li>
-<li class="current"><a href="{{ site.baseurl }}/resources/">Student Resources</a></li>
-<li><a href="{{ site.baseurl }}/contact/contact.html">Office Hours</a></li>
+<li><a href="{{ site.baseurl }}/index.html">{{ site.page1 }}</a></li>
+<li><a href="{{ site.baseurl }}/digital/">{{ site.page2 }}</a></li>
+<li class="current"><a href="{{ site.baseurl }}/resources/">{{ site.page3 }}</a></li>
+<li><a href="{{ site.baseurl }}/contact/contact.html">{{ site.page4 }}</a></li>
 </ul>
 </div>
 
