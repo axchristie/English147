@@ -1,0 +1,23 @@
+---
+layout: digital
+---
+
+<div class="sidebar">
+<p>English 147</p>
+<p style="margin-top: -2em; margin-left: 1em; font-size: 3em; font-weight: 100;">Alex Christie</p>
+<li class=""><a href="../index.html">Course Content</a></li>
+<li class="current"><a href="/digital/">Course Activities</a></li>
+<li class="animated flipInX" style="-webkit-animation-delay: .2s;"><a href="/resources/">Student Resources</a></li>
+<li class="animated flipInX" style="-webkit-animation-delay: .4s;"><a href="/contact/contact.html">Office Hours</a></li>
+</ul>
+</div>
+
+<div class="content">
+<section id="grid" class="animated fadeIn" style="-webkit-animation-delay: .6s;">
+    {% for post in site.posts %}
+    	   {% if post.categories contains 'activity' %}
+			<a class="tile {{ post.picture }}" href="{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>
+			{% endif %}
+    {% endfor %}
+</section>
+</div>

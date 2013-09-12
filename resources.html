@@ -1,0 +1,24 @@
+---
+layout: resources
+---
+
+<div class="sidebar">
+<p>English 147</p>
+<p style="margin-top: -2em; margin-left: 1em; font-size: 3em; font-weight: 100;">Alex Christie</p>
+<ul>
+<li><a href="">Course Content</a></li>
+<li>Student Resources</li>
+<li>Digital Assignments</li>
+<li>Office Hours Booking</li>
+</ul>
+</div>
+
+<div class="content">
+<section id="grid">
+    {% for post in site.posts %}
+    	   {% if post.categories contains 'resource' %}
+			<a class="tile{{ post.picture }}" href="{{ site.baseurl }}{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>
+			{% endif %}
+    {% endfor %}
+</section>
+</div>
