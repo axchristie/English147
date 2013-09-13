@@ -15,7 +15,7 @@ picture: canterbury
 
 ###Introduction to Close Reading
 
-* Introduction to tone, imagery, diction, and diction
+* Introduction to tone, imagery, and diction
 * Narrative structure: postcolonial and feminist approaches
 
 ###First Activity: "Wife of Bath's Prologue"
