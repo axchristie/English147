@@ -4,7 +4,7 @@
 	float: left;
 	width: 32%;
 	height: 100%;
-	padding-left: 4em;
+	padding-left: 50px;
 	padding-top: 50px;
 	}
 	
@@ -17,7 +17,7 @@
 
 .post{
 	border-radius: 10px;
-	margin-top: 100px;
+	margin-top: 130px;
 	margin-bottom: 100px;
 	margin-right: 50px;
 	background-color: #595757;
@@ -138,7 +138,7 @@ a[href^="mailto:"]{
 
 #grid {
 	width:100%;
-	padding: 7em 5em 5em 10em;
+	padding: 100px 0 0 100px;
 	float: right;
 }
 
