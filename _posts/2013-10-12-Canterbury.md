@@ -15,14 +15,10 @@ picture: canterbury
 
 ###Introduction to Close Reading
 
-* Introduction to tone, imagery, and diction
 * Narrative structure: postcolonial and feminist approaches
+* Introduction to tone, imagery, and diction
 
-###First Activity: "Wife of Bath's Prologue"
+###Activity: "Wife of Bath's Prologue"
 
 * Crowdsourced close reading using [PRISM](http://prism.scholarslab.org/)
 * View the activity [here]({{ site.baseurl }}/activity/WifeOfBath.html)
-
-###Second Activity: "The General Prologue"
-
-* Comparative close reading of the cook and the squire
