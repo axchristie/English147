@@ -2,7 +2,7 @@
 layout: home_post
 title: J. Alfred Prufrock
 categories: content
-picture: books
+picture: TBA
 ---
 
 # Love Song of J. Alfred Prufrock

@@ -23,7 +23,7 @@
 	background-color: #595757;
 	height: 600px;
 	overflow: scroll;
-	font-size: 24px;
+	font-size: 22px;
 }
 
 .post a{
@@ -38,6 +38,7 @@
 }
 
 .post p{
+	color: white;
 	font-size: inherit;
 	font-family: 'Josefin Slab';
 }
@@ -46,14 +47,21 @@
 
 h1{
 color: white;
-font-size: 60px;
+font-size: 50px;
 font-variant: small-caps;
 font-family: Droid;
 }
 
 h2{
 color: white;
-font-size: 50px;
+font-size: 40px;
+font-variant: small-caps;
+font-family: 'Josefin Slab';
+}
+
+h3{
+color: white;
+font-size: 30px;
 font-variant: small-caps;
 font-family: 'Josefin Slab';
 }
