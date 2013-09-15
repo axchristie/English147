@@ -22,7 +22,7 @@
 	margin-right: 50px;
 	background-color: #595757;
 	height: 600px;
-	overflow: scroll;
+	overflow: auto;
 	font-size: 22px;
 }
 
