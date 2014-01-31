@@ -226,3 +226,7 @@ a[href^="mailto:"]{
 .TBA{
 	background-image:url(../assets/images/TBA.jpg);
 }
+
+.chart{
+	background-image:url(../assets/images/chart.png);
+}
