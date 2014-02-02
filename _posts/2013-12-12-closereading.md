@@ -1,5 +1,5 @@
 ---
-layout: resource_post
+layout: activity_post
 title: Close Reading
 categories: resource
 picture: focus

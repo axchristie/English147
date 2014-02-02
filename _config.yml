@@ -4,8 +4,9 @@ permalink: none
 baseurl: /English147
 subtitle: T05 | Alex Christie
 
-page2: Digital Activities
-page3: Student Resources
+page1: Digital Activities
+page2: Student Resources
+page3: Course Achievements
 page4: Office Hours
 
 delay2: "-webkit-animation-delay: .2s; -moz-animation-delay: .2s; -ms-animation-delay: 
