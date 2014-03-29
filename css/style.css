@@ -315,3 +315,7 @@ user-select: none;
 .critical{
 	background-image:url(../assets/images/criticalthinking.png);
 }
+
+.mallet{
+	background-image:url(../assets/images/D3viz.png);
+}
